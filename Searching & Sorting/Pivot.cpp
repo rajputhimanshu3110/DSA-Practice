@@ -1,5 +1,4 @@
 //Find Pivot element using sorted array
-//Peak Index in Mountain array in binary search
 
 #include<iostream>
 using namespace std;
