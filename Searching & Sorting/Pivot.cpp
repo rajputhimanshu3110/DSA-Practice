@@ -21,7 +21,7 @@ int Pivot(int arr[],int n){
 }
 
 int main(){
-    int arr[4]={2,3,5,1};
+    int arr[5]={2,3,5,7,1};
     cout<<Pivot(arr,4);
 
 }
