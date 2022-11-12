@@ -40,16 +40,8 @@ int main(){
         col--;
     }
    }
-        cout<<"Element Not found";
+    cout<<"Element Not found";
 
-        return 0;
-
-
-
-
-
-
-
+    return 0;
 }
-
 
