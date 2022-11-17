@@ -3,9 +3,10 @@ using namespace std;
 
 
 int linearSearch(int arr[],int key, int n){
-    if(n<0)
+
+    if(n==0)
         return -1;
-    if(n[arr]==key)
+    if(arr[n-1]==key)
         return n;
     else
         return linearSearch(arr,key,n-1);
